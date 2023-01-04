@@ -25,5 +25,5 @@ Group Number:
 2
 
 Group Members:
-22241181	Fardin Bin Rahman
+22241181	Irfana Arafin
 22266022	Md Humaion Kabir Mehedi
